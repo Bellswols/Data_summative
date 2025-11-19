@@ -10,3 +10,4 @@ Jinja2
 statsmodels>=0.14.0
 nbformat>=5.7.0
 plotly>=5.15.0
+ipykernel
